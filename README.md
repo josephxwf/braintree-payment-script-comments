@@ -1,0 +1,1 @@
+# braintree-payment-script-comments
